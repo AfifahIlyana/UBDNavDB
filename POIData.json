@@ -1,0 +1,178 @@
+[
+
+        {
+            "id": 0,
+            "pName": "Academy of Brunei Studies",
+            "pDesc": "The Academy of Brunei Studies (APB) was established in 1990 as a multi-disciplinary centre for study and research covering all aspects of life in Brunei Darussalam. Undergraduate programmes in Brunei Studies were first offered in 1996, graduate degrees followed in 2004. Today, the Academy offers Bachelor of Arts in Brunei Studies, Master of Arts by Research and Doctor of Philosophy degrees."
+
+        },
+        {
+            "id": 1,
+            "pName": "Chancellory Building",
+            "pDesc": "administration description"
+
+        },
+        {
+            "id": 2,
+            "pName": "Chancellor Hall",
+            "pDesc": "chancellorhall description"
+
+        },
+        {
+            "id": 3,
+            "pName": "Canteen",
+            "pDesc": "canteen description"
+
+        },
+        {
+            "id": 4,
+            "pName": "Central Lecture Theatres",
+            "pDesc": "central lecture theatres description"
+
+        },
+        {
+            "id": 5,
+            "pName": "Educational Technology Centre (ETC)",
+            "pDesc": "educational technology centre description"
+
+        },
+        {
+            "id": 6,
+            "pName": "University store house",
+            "pDesc": "university store house description"
+
+        },
+        {
+            "id": 7,
+            "pName": "Faculty of Arts and Social Sciences (FASS)",
+            "pDesc": "facultyofartsand socialsciences description"
+
+        },
+        {
+            "id": 8,
+            "pName": "School of Business and Economics",
+            "pDesc": "On 4 March 2014, the Faculty of Business, Economics and Policy Studies (FBEPS) was renamed as UBD School of Business and Economics (UBDSBE) by UBD Council.\n\nAs one of the first faculties created during the establishment of Universiti Brunei Darussalam in 1986, the Faculty aspires to gain the national reputation as an academic leader in the area of business, economics and finance. To achieve this, the Faculty offers a wide array of degree programmes, including; Bachelor of Business (Major in Business Administration; Economics; Entrepreneurship; Accounting and Finance) Master of Business Administration (MBA), Master of Islamic Finance, Master of Management, Master of Logistics, Master of Applied Economics, Master by Research, and PhD programmes.The modules for the coursework programmes are customised to produce graduates with marketable skills and leadership qualities in line with the contemporary needs of organisations in an increasingly competitive and globalised world."
+
+        },
+        {
+            "id": 9,
+            "pName": "Faculty of Science",
+            "pDesc": "Faculty of Science (FOS) at Universiti Brunei Darussalam provides students with a wide spectrum of academic opportunities under six major disciplines: Biology, Chemistry, Computer Science, Geology, Applied Physics and Mathematics. FOS offers degrees from undergraduate to doctorate level. At the undergraduate level, the newly introduced Generation NEXT Bachelor of Science degree programme is designed to provide students the much needed cognitive and analytical skills that are vital to excel in the 21st century. The faculty largely consists of experienced and well qualified academics from all over the world. Also, our degrees are highly regarded by various academic institutions overseas. We welcome students as well as researchers to our faculty. We strongly believe that your stay at Faculty of Science, Universiti Brunei Darussalam will be one of the most beneficial and memorable events of your fruitful career."
+
+        },
+        {
+            "id": 10,
+            "pName": "Female Hostel",
+            "pDesc": "The first UBD residential college, comprised of six blocks for female students. Some facilities are shared in each block of 70 rooms such as a launderette, kitchen, toilets/bathrooms, common rooms, prayer rooms, television rooms and Wi-Fi. Each room is furnished with a single bed with mattress, a pillow, a wardrobe, a ceiling fan (for selected rooms, air conditioner is available), a study table and chair, bookshelves, and a wired LAN connection. Residents from the colleges share a canteen, resource room, prayer room, activity room, in-house badminton court ad a multi-purpose hall."
+
+        },
+        {
+            "id": 11,
+            "pName": "Kuala Belalong Field Studies Centre (KBFSC)",
+            "pDesc": "The establishment of Kuala Belalong Field Studies Centre (KBFSC) was during a joint expedition of the Royal Geographical Society (RGS), London, and Universiti Brunei Darussalam (UBD), in the early 1990s. During the launching expedition, 74 scientists of various specialisations have conducted research at the KBFSC. On 1st April 1992, UBD took over the responsibility for the station.\n\nThe core mission of the KBFSC is to generate, describe and disseminate knowledge in Science and Education related to the vast diversity of Brunei’s tropical rainforests, including all the varied life forms and ecosystem processes."
+
+        },
+        {
+            "id": 12,
+            "pName": "Language Centre (LC)",
+            "pDesc": "Since its establishment in 2001, as a Centre for Teaching English, the Language Centre (LC) has grown to include a range of languages and currently teaches over 2000 students each semester. Students are able to take individual modules and may also take minors in Arabic, French, Japanese, Korean, Mandarin and Borneo Languages. A wide range of teaching methodology is used to cater to different learning styles.\n\nAside from small group discussion and traditional methods, other activities include project work, use of technology, games, language clubs and a range of more public activities including speech competitions, foreign film nights, cultural festivals, and interactions with various embassies, exhibitions, drama, dance and presentations. The LC enjoys enormous support from various embassies and high commissions."
+
+        },
+        {
+            "id": 13,
+            "pName": "University Library",
+            "pDesc": "Our Vision: A world class university library with comprehensive information provisions to serve the needs of the teaching, learning and research community.\n\nOur Mission: Excellence in library and information service to support the teaching, learning, and community service activites to the University by providing client-oriented, innovative, and competent professional services; by building strong and relevant resource collections; by managing an efficient and effective system; and by implementing and utilizing available and relevant technology."
+
+        },
+        {
+            "id": 14,
+            "pName": "Information Communication Technology Centre (ICTC)",
+            "pDesc": "The Information & Communication Technology (ICT) Centre maintains the campus-wide network and system infrastructure as well as carry out ICT projects for the University. It also provides support services in the following areas:\n\n1. Helpdesk\n2. Email\n3. Printing\n4. Wi-Fi\n5. Software\n6. Hardware\n7. End-user computing\n8. Webpage\n9. Technical Event Services\n\nOpening Hours:\n\nMonday to Thursday and Saturday\n7.45 am – 12.15 pm\n1.30 pm – 4.30 pm"
+
+        },
+        {
+            "id": 15,
+            "pName": "Institude for Leadership, Innovation and Advancement (ILIA)",
+            "pDesc": "The Institute for Leadership, Innovation and Advancement (ILIA) is the premier academic centre to the provision of research and training on issues and concerns related to the advancement of Negara Brunei Darussalam, with an emphasis on leadership and innovation.\n\nOur business, technological and social environment are faced with new and continuous challenges and there is a need for individuals and organisations to reassess the status quo and to innovate – to look for new ways of thinking and behaviour for the advancement of society as a whole. To inspire change, leaders at all levels and in all fields must be continuously trained to their fullest potential so that they can enhance productivity and performance in an array of public and private organisations. At the same time, relevant and timely research needs to be conducted, to address and to provide empirical solutions to emerging issues and challenges related to change leadership and innovation.\n\nThe Institute therefore strives towards solving business, technological and social problems in these challenges through training, dialogue, collaboration, research and development. The Institute encourages a multidisciplinary and multi-sectoral approach whereby beneficial partnerships and collaboration will be sought and established at both local and international levels."
+
+        },
+        {
+            "id": 16,
+            "pName": "Institude of Health Science",
+            "pDesc": "Originally founded in 2000 as the Institute of Medicine, PAPRSB Institute of Health Sciences has expanded beyond solely providing medical training. We ensure the Institute remains relevant and sensitive to the rapidly changing needs of the country and work closely with the Ministry of Health.\n\nThe vision of PAPRSB Institute of Health Sciences is to be among Asia's top-ranking health science institution. Our mission is to provide high-value education, to conduct high impact research and to extend outstanding community service. We aim to produce high-quality health professionals to meet the national needs of Brunei. "
+
+        },
+        {
+            "id": 17,
+            "pName": "Male Hostel",
+            "pDesc": "The first UBD residential college, comprised of four blocks for male students. Some facilities are shared in each block of 70 rooms such as a launderette, kitchen, toilets/bathrooms, common rooms, prayer rooms, television rooms and Wi-Fi. Each room is furnished with a single bed with mattress, a pillow, a wardrobe, a ceiling fan (for selected rooms, air conditioner is available), a study table and chair, bookshelves, and a wired LAN connection. Residents from the colleges share a canteen, resource room, prayer room, activity room, in-house badminton court ad a multi-purpose hall."
+
+        },
+        {
+            "id": 18,
+            "pName": "Married Students Quarters",
+            "pDesc": "marriedstudentsquarters description"
+
+        },
+        {
+            "id": 19,
+            "pName": "Masjid Universiti Brunei Darussalam",
+            "pDesc": "The Mosque is located just in front of the Male Residential College and next to the Faculty of Science. The Mosque serves the University community as well as the neighbouring villages"
+
+        },
+        {
+            "id": 20,
+            "pName": "University Technology Hub (UBD|IBM Centre)",
+            "pDesc": "The UBD|IBM Centre is research collaboration between the Universiti Brunei Darussalam and International Business Machines (IBM) Corporation. The centre was launched by His Majesty Sultan Haji Hassanal Bolkiah Mu'izzadin Waddaulah, the Sultan and Yang Di-Pertuan of Brunei Darussalam, on October 15, 2011. IBM Research Labs in India, New York, USA (Watson), Australia, and Brazil are participating in this joint research."
+
+        },
+        {
+            "id": 21,
+            "pName": "The Core Residential College",
+            "pDesc": "The Core residential college, more commonly known as The Core is fully fitted with modern facilities which caters exclusively to its clientele - students and academic travelers alike. The Core comprises of 440 individual study-bedrooms, in a standard and premium apartment settings. Each 5-bedroom apartment incudes common living room, kitchen, bathroom and laundry room facilities. The Core also offers four fully furnished executive houses.\n\nFor students with special needs, this residential college has wheelchair ramps and Braille plates for ease of mobility obtaining bearing. These students are also are given the priority of obtaining accommodation on the ground floor."
+
+        },
+        {
+            "id": 22,
+            "pName": "University Sport Complex",
+            "pDesc": "UBD encourages graduates who are not only well-versed in their academic field of study, but also who are healthy and active in their sports and recreation activities. The university is constantly striving toward providing ample opportunities and support for students to carry out their leisure activities such as the provision of jogging/running tracks in campus, the maintenance of fields and courts for various sport activities and recently, the construction of an Olympic-size swimming pool!\n\nThe safety of students are also a priority in the university, thus 24-hour CCTVs are placed in campus and security posts are strategically located to keep you safe whilst performing your healthy recreational activities.\n\nSport clubs that are available in the university include:\n\n- Aerobic Club\n- Aikido Club\n- Badminton Club\n- Basketball Club\n- Bowling Club\n- Dodgeball Club\n- Handball Club\n- Hockey Club\n- Kempo Club\n- Kendo Club\n- Netball Club\n- Parkour Club\n- Ping Pong Club\n- Silat Club\n- Squash Club\n- Taekwondo Club\n- Tennis Club\n- UBD Archery Club\n- UBD Football Club\n- UBD Rugby Club\n- UBD Ultimate Club\n- Volleyball Club\n- Wadokai Karate Club\n- Yoga Club"
+
+        },
+        {
+            "id": 23,
+            "pName": "Sultan Hassanal Bolkiah Institute of Education",
+            "pDesc": "Sultan Hassanal Bolkiah Institute of Education (SHBIE) is a Graduate Faculty in Universiti Brunei Darussalam. SHBIE has been successfully preparing teachers for over 50 years.\n\nAs the needs of schools and society have changed, so has our Institute. From a humble beginning in 1956 as Maktab Perguruan (Teacher Education College), the Institute has grown to become a Graduate School of Education in 2009.\n\nAs a graduate school, SHBIE offers graduate programmes featuring high quality instruction and an academic curriculum designed to raise teaching standards and support effective school systems.​\n\nSHBIE is the premier teacher training institute in Brunei Darussalam comprising of a truly international faculty of educational professionals with extensive overseas and local teaching and research experience representing a comprehensive range of expertise, which ensures that the courses offered reflect the latest theory and research in the field of education. SHBIE is unwavering in its commitment to shape the future by educating its students to become teachers of highest quality trained in the best practices.\n\nThe Institute’s main purpose is the preparation of primary, secondary and technical school teachers and educational administrators. In addition, it provides introductory courses related to more specialized educational roles such as guidance and counselling, remedial teaching and curriculum design.\n\nThe Institute’s teaching programme is guided by the belief that the professional education of teachers is an on-going process. It begins with the pre-service or initial phase of training and continues throughout the teachers’ careers through their participation in upgrading and in-service courses. The Institute therefore also gives high priority to the upgrading of teacher’s qualifications and the provision of short in-service courses."
+
+        },
+        {
+            "id": 24,
+            "pName": "Teaching and Learning Centre (TLC)",
+            "pDesc": "teachingandlearning centre description"
+
+        },
+        {
+            "id": 25,
+            "pName": "Security post",
+            "pDesc": "securitypost description"
+
+        },
+        {
+            "id": 26,
+            "pName": "Student Centre",
+            "pDesc": "studentcentre description"
+
+        },
+        {
+            "id": 27,
+            "pName": "Faculty of Integrated Science (FIT)",
+            "pDesc": "The faculty emphasises a quality design centric broad-based engineering education with innovative curriculum and cutting edge engineering research. The undergraduate GenNext engineering curriculum has been developed through collaborative works with world leading technological universities namely: Stevens Institute of Technologies in the United States; and Zhejiang University in China.\n\nFor its research, FIT actively collaborates with world-class universities including Oxford University in the United Kingdom."
+
+        },
+        {
+            "id": 28,
+            "pName": "PMUBD Shop",
+            "pDesc": "Owned by the students, PMUBD Shoppe provides the needs of the students which includes stationary, snacks, or any other general items."
+
+        }
+
+    ]
