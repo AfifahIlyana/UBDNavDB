@@ -1,3 +1,9 @@
+# Runs through the 'img' folder and its subdirectories
+# Writes the directory path to JSON text file
+# Saves as (eg)
+#   "3/img2.jpg"
+#   "15/downloadw.png"
+
 import os
 
 # Retrieve the full path of the img directory
